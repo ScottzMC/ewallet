@@ -1,0 +1,4 @@
+[08-Feb-2019 17:48:40 UTC] PHP Fatal error:  Cannot access empty property in /home/angelbei/public_html/application/controllers/Dashboard.php on line 149
+[08-Feb-2019 17:52:40 UTC] PHP Fatal error:  Class 'ApiException' not found in /home/angelbei/public_html/application/libraries/Paystack.php on line 659
+[08-Feb-2019 21:02:23 UTC] PHP Fatal error:  Call to undefined function initialize_transaction() in /home/angelbei/public_html/application/controllers/Dashboard.php on line 217
+[08-Feb-2019 21:02:51 UTC] PHP Fatal error:  Call to undefined function initialize_transaction() in /home/angelbei/public_html/application/controllers/Dashboard.php on line 217
